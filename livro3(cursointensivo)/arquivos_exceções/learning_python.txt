@@ -1,0 +1,5 @@
+Algumas coisas que aprendi com Python
+No Python, podemos criar classes para um programa com problemas e pensamentos da vida real
+No Python, podemos criar funções que fazem uma serie de intruções e q podemos utilizar durante todo o codigo ou até mesmo em outros codigos
+No Python, podemos criar variaveis para trabalhar e organizar nosso codigo
+No Python, podemos fazer qualquer coisa!!!
